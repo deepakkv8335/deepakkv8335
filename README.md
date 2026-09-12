@@ -2,14 +2,14 @@
 
 **Software Developer | Python, Django & Web Applications**
 
-I'm a Computer Science graduate who enjoys building web applications with Python and Django. I like creating practical projects, improving my skills through hands-on development, and learning modern web technologies.
+I'm a Computer Science graduate who enjoys building practical web applications with Python and Django. I like learning by building real projects and continuously improving my development skills.
 
-## What I'm Working On
+## Currently Working On
 
-- Building Python and Django projects
+- Building Python & Django projects
 - Learning Django REST Framework
-- Creating a personal portfolio website
-- Improving JavaScript and full-stack development
+- Developing my portfolio website
+- Improving JavaScript skills
 
 ## Tech Stack
 
@@ -18,15 +18,15 @@ I'm a Computer Science graduate who enjoys building web applications with Python
 - HTML
 - CSS
 - JavaScript
-- jQuery
 - SQLite
-- Git & GitHub
+- Git
+- GitHub
 
 ## Featured Projects
 
 - Task Management System
 - Garbage Management System
-- Employee Management System
+- Tourism Management System
 - Weather API Application
 
 ## Connect
