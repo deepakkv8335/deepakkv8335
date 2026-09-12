@@ -31,5 +31,5 @@ I'm a Computer Science graduate who enjoys building web applications with Python
 
 ## Connect
 
-- LinkedIn: *https://www.linkedin.com/feed/*
+- LinkedIn: *https://www.linkedin.com/in/deepakkv8335/*
 - Portfolio: *https://deepakkv8335.github.io/portfolio/*
