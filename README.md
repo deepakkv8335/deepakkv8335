@@ -66,35 +66,35 @@ I enjoy turning ideas into working products, working across frontend and backend
 
 A web-based waste management system with separate dashboards for users, vendors, and administrators. Includes waste pickup scheduling, booking management, CRUD operations, and role-based access control.
 
-[GitHub](https://github.com/deepakkv8335/garbage-management-system) • [Live Demo](https://garbage-management-system-ecosort.onrender.com/)
+[GitHub](https://github.com/deepakkv8335/garbage-management-system) | [Live Demo](https://garbage-management-system-ecosort.onrender.com/)
 
 ### Matrimony Platform
 **HTML5 • CSS3 • JavaScript • Supabase • Git**
 
 A responsive matrimony platform with Supabase authentication, profile management, real-time database functionality, and dynamic JavaScript interactions.
 
-[GitHub](https://github.com/deepakkv8335/matrimony-platform) • [Live Demo](https://wcmatrimony.pages.dev/)
+[GitHub](https://github.com/deepakkv8335/matrimony-platform) | [Live Demo](https://wcmatrimony.pages.dev/)
 
 ### Task Management System
 **Python • Django • HTML5 • CSS3 • JavaScript • SQLite • Git**
 
 A role-based task management application with Admin, Manager, and User workflows, including task assignment, status updates, authentication, and CRUD functionality.
 
-[GitHub](https://github.com/deepakkv8335/task-management-system) • [Live Demo](https://task-management-system-curd-project.onrender.com)
+[GitHub](https://github.com/deepakkv8335/task-management-system) | [Live Demo](https://task-management-system-curd-project.onrender.com)
 
 ### Tourism Management System
 **Python • Django • HTML5 • CSS3 • JavaScript • SQLite • Git**
 
 A tourism management system for browsing travel packages and managing bookings, with vendor package management and Django authentication and administration.
 
-[GitHub](https://github.com/deepakkv8335/tourism-management-system) • [Live Demo](https://tourism-management-system-focuz.onrender.com/)
+[GitHub](https://github.com/deepakkv8335/tourism-management-system) | [Live Demo](https://tourism-management-system-focuz.onrender.com/)
 
 ### Weather API Application
 **HTML5 • CSS3 • JavaScript • REST API • Git**
 
 A responsive weather application that retrieves live weather data through an external API and displays results dynamically based on location searches.
 
-[GitHub](https://github.com/deepakkv8335/weather-api-app) • [Live Demo](https://deepakkv8335.github.io/weather-api-app)
+[GitHub](https://github.com/deepakkv8335/weather-api-app) | [Live Demo](https://deepakkv8335.github.io/weather-api-app)
 
 ### Additional Projects
 
